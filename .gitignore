@@ -1,0 +1,30 @@
+
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
+
+# Logs
+*.log
+
+# Docker
+*.pid
+
+# macOS
+.DS_Store
+
+# Linux
+*.swp
